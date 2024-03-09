@@ -65,9 +65,9 @@ const poema =
 console.log(poema)
 
 const poema2 =
-    'Las rosas son rojas,\n\
-las violetas son azules,\n\ 
-Caracter inesperado, \n\
+'Las rosas son rojas,\n\
+Las violestas son azules,\n\
+Caracter inesperado,\n\
 En la linea 86.'
 
 console.log(poema2)
@@ -75,7 +75,7 @@ console.log(poema2)
 const poema3 =
 `Las rosas son rojas,\n\
 las violetas son azules,\n\ 
-Caracter inesperado, \n\
+Caracter inesperado,\n\
 En la linea 86.`
 
 console.log(poema3)
