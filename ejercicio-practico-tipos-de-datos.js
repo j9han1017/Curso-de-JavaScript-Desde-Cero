@@ -12,7 +12,7 @@ const address = {
     city: 'Techville',
     state: 'Codingland',
     zipCode: 54321
-}
+}      
 
 // 3. Hobbies
 const hobbies =['Coding', 'Reading', 'Gaming']
