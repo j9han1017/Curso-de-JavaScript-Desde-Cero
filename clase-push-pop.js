@@ -13,4 +13,4 @@ console.log(newCountries)
 const removedContry = countries.pop()
 
 console.log(countries)
-console.log(removedContry)
+console.log(removedCovntry)
